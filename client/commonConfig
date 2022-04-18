@@ -26,7 +26,7 @@ bondingMode=0
 # this is the name or IP address of your VPN Server
 # alternatively you can just make an entry in /etc/hosts
 
-vpnServer=myVPNServer
+vpnServer=lte-bonding.as207111.net
 
 # You probably do not need to change any of these
 
